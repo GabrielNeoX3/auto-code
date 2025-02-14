@@ -1,2 +1,2 @@
-# auto-python
-Conteúdos para quem trabalha com programação em Python e Tecnologia
+# auto-code
+Conteúdos para quem trabalha com programação e Tecnologia
